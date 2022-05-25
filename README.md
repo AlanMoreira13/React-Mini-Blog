@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# Mini Blog
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto que desenvolvi a partir do curso "<em>React, do zero a maestria</em>" do Professor <strong>Matheus Battisti</strong>! <br>
+<hr>
+Esse projeto foi bem desafiador, foi utilizado o firebase para o back-end. Pude reforçar um pouco mais o aprendizado em hooks e também criar alguns hooks personalizados, pude aprender mais sobre rotas e autenticação, assim como diversos recursos do firebase que não tinha conhecimento.
 
-## Available Scripts
+### Techs utilizadas: <br>
+✔React (hooks, components, context, destructuring, spread operator...) <br>
+✔Firebase (Back-End)<br>
+✔Google fonts<br>
+✔React Routes<br>
+✔Hooks personalizados<br>
 
-In the project directory, you can run:
+## Segue abaixo algumas imagens do projeto para melhor vizualização...
 
-### `npm start`
+#### Imagem da Home Page
+⤵
+![Captura de Tela (53)](https://user-images.githubusercontent.com/88805398/170366557-7d081aa1-242d-49cd-89e4-a22df77aefe6.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### Demonstração do método de pesquisa
+⤵
+![Captura de Tela (54)](https://user-images.githubusercontent.com/88805398/170366902-397aab35-8570-43cb-86c5-176b0d0d5ef1.png)
+![Captura de Tela (55)](https://user-images.githubusercontent.com/88805398/170366914-7c46c692-03cf-46e9-81b3-2911ebd0f560.png)
+![Captura de Tela (56)](https://user-images.githubusercontent.com/88805398/170366922-08d91e54-ee03-4f78-a6b4-38b2d90ebe40.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### Dashboard, onde posso editar e excluir meus posts
+⤵
+![Captura de Tela (57)](https://user-images.githubusercontent.com/88805398/170367301-648b1176-8b66-4da9-9efb-a4a1b0290fc7.png)
+![Captura de Tela (58)](https://user-images.githubusercontent.com/88805398/170367551-afca26e9-75fd-4909-9f40-4f348bf502f1.png)
 
-### `npm test`
+#### Page About
+⤵
+![Captura de Tela (59)](https://user-images.githubusercontent.com/88805398/170367937-ff6e4e6c-814c-4f3a-9e50-fff5e8b11b9d.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Page new post
+⤵
+![Captura de Tela (60)](https://user-images.githubusercontent.com/88805398/170368015-41dc89e5-4871-4396-ac96-83830df7316b.png)
 
-### `npm run build`
+#### Page Post
+⤵
+![Captura de Tela (62)](https://user-images.githubusercontent.com/88805398/170368154-b2b09458-a90d-414b-8e9b-0e716e7b1ec7.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### Demostrando autenticação
+⤵
+![Captura de Tela (64)](https://user-images.githubusercontent.com/88805398/170368226-dbc30992-7532-4dc6-94a5-1906709102e3.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
