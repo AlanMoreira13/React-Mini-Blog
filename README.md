@@ -40,7 +40,7 @@ Esse projeto foi bem desafiador, foi utilizado o firebase para o back-end. Pude 
 ⤵
 ![Captura de Tela (62)](https://user-images.githubusercontent.com/88805398/170368154-b2b09458-a90d-414b-8e9b-0e716e7b1ec7.png)
 
-#### Demostrando autenticação
+#### Demonstrando autenticação
 ⤵
 ![Captura de Tela (64)](https://user-images.githubusercontent.com/88805398/170368226-dbc30992-7532-4dc6-94a5-1906709102e3.png)
 
