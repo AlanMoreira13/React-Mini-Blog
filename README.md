@@ -11,7 +11,7 @@ Esse projeto foi bem desafiador, foi utilizado o firebase para o back-end. Pude 
 ✔ Firebase (Back-End) <br>
 ✔ Google fonts <br>
 ✔ React Routes <br>
-✔ Hooks personalizados <br>
+✔ Hooks personalizados<br>
 
 ## Segue abaixo algumas imagens do projeto para melhor vizualização...
 
