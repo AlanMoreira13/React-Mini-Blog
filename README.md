@@ -8,7 +8,7 @@ Esse projeto foi bem desafiador, foi utilizado o firebase para o back-end. Pude 
 ### Techs utilizadas: <br>
 
 ✔ React (hooks, components, context, destructuring, spread operator...) <br>
-✔ Firebase (Back-End) <br>
+✔ Firebase (Back-End)<br>
 ✔ Google fonts <br>
 ✔ React Routes <br>
 ✔ Hooks personalizados <br>
