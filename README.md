@@ -5,7 +5,7 @@ Projeto que desenvolvi a partir do curso "<em>React, do zero a maestria</em>" do
 <hr>
 Esse projeto foi bem desafiador, foi utilizado o firebase para o back-end. Pude reforçar um pouco mais o aprendizado em hooks e também criar alguns hooks personalizados, pude aprender mais sobre rotas e autenticação, assim como diversos recursos do firebase que não tinha conhecimento.
 
-### Techs utilizadas:  <br>
+### Techs utilizadas:   <br>
 
 ✔ React (hooks, components, context, destructuring, spread operator...) <br>
 ✔ Firebase (Back-End)<br>
